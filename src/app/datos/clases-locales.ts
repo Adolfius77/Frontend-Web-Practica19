@@ -1,13 +1,3 @@
-// ---------------------------------------------------------------------------
-// datos/clases-locales.ts — CÓDIGO BASE: no se teclea, se copia.
-//
-// Las 8 clases del seed de gimnasio-backend, escritas a mano. Sirven para las
-// Prácticas 19 y 20, donde todavía NO hay API: primero aprendemos Angular con
-// datos quietos, y en la Práctica 21 este archivo se deja de usar.
-//
-// Las imágenes salen de public/img de ESTE proyecto (Angular sirve la carpeta
-// public/ en la raíz). Desde la Práctica 21 las va a servir la API.
-// ---------------------------------------------------------------------------
 
 import type { Clase } from '../modelos/clase';
 

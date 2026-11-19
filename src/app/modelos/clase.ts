@@ -1,17 +1,5 @@
-// ---------------------------------------------------------------------------
-// modelos/clase.ts — CÓDIGO BASE: no se teclea, se copia.
-//
-// La forma de lo que regresa gimnasio-backend. Son LOS MISMOS tipos del
-// tipos.ts de React (Prácticas 15 a 18): TypeScript no es de React ni de
-// Angular, y el contrato con la API no cambia porque cambie el framework.
-//
-// Trae los tipos de las cinco prácticas de la unidad. Los que todavía no se
-// usan no estorban.
-// ---------------------------------------------------------------------------
-
 export type Categoria = 'fuerza' | 'cardio' | 'flexibilidad';
 
-/** Las tres, en orden, para pintar el filtro y el <select> sin repetirlas. */
 export const CATEGORIAS: Categoria[] = ['fuerza', 'cardio', 'flexibilidad'];
 
 // GET /clases
